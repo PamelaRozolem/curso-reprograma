@@ -1,7 +1,7 @@
 // Exportando um módulo
 
 const mostraMensagem = name => (
-  `Olá, ${name}`;
+  `Olá, ${name}`
 );
 
 function diga(name) {
